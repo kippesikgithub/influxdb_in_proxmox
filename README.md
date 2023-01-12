@@ -13,3 +13,4 @@ Since this will be a copy off the data in HA itself, I would recommend to use a 
 
 ## Home Assistant Config
 - add the following code to your Home Assistant configuration
+![image](https://user-images.githubusercontent.com/100353268/212092139-3077a55d-8f1a-470f-97cb-85847027ffc1.png)
